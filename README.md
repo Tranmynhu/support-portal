@@ -30,3 +30,5 @@
 
 # \- Support hours include the time zone.
 
+## Support escalation
+Escalate unresolved billing requests to the billing team after one business day.
